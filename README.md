@@ -1,2 +1,2 @@
 # Datasciencecoursera
-Study Course vi Coursera
+Study Course via Coursera
